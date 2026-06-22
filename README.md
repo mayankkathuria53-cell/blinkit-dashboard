@@ -62,8 +62,10 @@ ETL & Modeling: Power Query — Cleaned complex structural profiles, managed mis
 
 Data Modeling: Implemented a clean, optimized star schema design linking outlet dimensional properties with transactional facts.
 
+Analytical Expressive Logic (DAX): Built custom measures to handle complex calculations, dynamic aggregation metrics, and conditional color indexing.
+
+
 snapshot/demo
 show whats the dashboard looks like -
-example 
+example https://github.com/mayankkathuria53-cell/blinkit-dashboard/blob/main/snapshot%20of%20dashboard.png
 
-Analytical Expressive Logic (DAX): Built custom measures to handle complex calculations, dynamic aggregation metrics, and conditional color indexing.
